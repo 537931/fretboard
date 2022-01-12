@@ -10,5 +10,6 @@
 
 <h1>Fretboard</h1>
   
-  <p>An app to display chord or scale notes on the freatboard</p>
+  <p>An app to display chord or scale notes on the fretboard</p>
+   
   </body>
