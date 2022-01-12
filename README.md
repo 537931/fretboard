@@ -13,3 +13,4 @@
   <p>An app to display chord or scale notes on the fretboard</p>
    
   </body>
+  </html>
